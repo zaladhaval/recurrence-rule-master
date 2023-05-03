@@ -48,7 +48,7 @@ NOTES: Unlike the [iCalendar Recurrence Rule](https://tools.ietf.org/html/rfc554
         <td rowspan=7>FREQ</td>
         <td>YEARLY</td>
         <td>Repeating events based on an interval of a year or more.</td>
-        <td align="center">NO</td>
+        <td align="center">YES</td>
     </tr>
     <tr>
         <td>MONTHLY</td>
