@@ -10,9 +10,9 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-java@v3
         with:
-          java-version: '17'
+          java-version: '11'
           distribution: 'adopt'
       - name: Publish package
         run: mvn --batch-mode deploy
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
