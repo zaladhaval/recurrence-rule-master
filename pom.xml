@@ -5,10 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.recurring.app</groupId>
-  <artifactId>recurring-rule</artifactId>
-  <version>1.0</version>
+  <artifactId>recurring-event</artifactId>
+  <version>1.1</version>
 
-  <name>my-app</name>
+  <name>
+    recurrence-rule-master
+  </name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -22,7 +24,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/zaladhaval/AzureAdUserCrude</url>
+      <url>https://maven.pkg.github.com/zaladhaval/recurrence-rule-master</url>
     </repository>
   </distributionManagement>
 

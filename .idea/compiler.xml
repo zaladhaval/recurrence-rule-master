@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="recurring-rule" />
+        <module name="recurring-event" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-maven" target="1.8" />
+      <module name="recurring-rule" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
