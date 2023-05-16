@@ -5,6 +5,13 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 The recurrence-rule is a subset or partial implementation based on [iCalendar Recurrence Rule](https://tools.ietf.org/html/rfc5545#section-3.3.10). It provides most of the useful repeating pattern for recurring events, to-dos, journal entries etc.
+```java  
+    <dependency>
+        <groupId>com.recurring.app</groupId>
+        <artifactId>recurring-event</artifactId>
+        <version>1.1</version>
+    </dependency>
+```
 # Usage:
 recurrence-rule is easy to get started.<br>
 ### Firstly, create an instance of repeating rule base on the syntax of iCalendar Recurrence Rule:
